@@ -7,7 +7,6 @@ A robust and secure hotel reservation management system built with Java, JDBC, a
 ## 🌟 Features
 
 - Complete Reservation Management: Create, view, update, and delete room reservations
-- Secure Authentication: Implemented robust authentication system with MongoDB aggregation
 - Real-time Data Transactions: MySQL integration for instant booking updates
 - SQL Injection Protection: Parameterized queries using PreparedStatement
 - Performance Optimized: 40% improvement in system performance through efficient database operations
@@ -21,7 +20,6 @@ A robust and secure hotel reservation management system built with Java, JDBC, a
 - Backend: Java
 - Database: MySQL
 - Database Connectivity: JDBC
-- Authentication: MongoDB Aggregation
 - Design Pattern: Object-Oriented Programming (OOP)
   
 ---
@@ -32,9 +30,7 @@ Before running this project, ensure you have the following installed:
 
 - Java Development Kit (JDK) 8 or higher
 - MySQL Server 5.7 or higher
-- MongoDB (for authentication)
 - MySQL Connector/J (JDBC Driver)
-- MongoDB Java Driver
   
 ---
 
@@ -44,6 +40,8 @@ Before running this project, ensure you have the following installed:
 - MongoDB Aggregation: Optimized queries improving performance by 40%
 - Indexed Database Columns: Fast retrieval of reservation data
 - Prepared Statement Caching: Reduced query compilation overhead
+
+---
 
 ## 🎯 Key Achievements
 
