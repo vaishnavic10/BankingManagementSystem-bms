@@ -40,18 +40,18 @@ Before running this project, ensure you have the following installed:
 
 ## 📊 Performance Optimizations
 
-Connection Pooling: Efficient database connection management
-MongoDB Aggregation: Optimized queries improving performance by 40%
-Indexed Database Columns: Fast retrieval of reservation data
-Prepared Statement Caching: Reduced query compilation overhead
+- Connection Pooling: Efficient database connection management
+- MongoDB Aggregation: Optimized queries improving performance by 40%
+- Indexed Database Columns: Fast retrieval of reservation data
+- Prepared Statement Caching: Reduced query compilation overhead
 
 ## 🎯 Key Achievements
 
-✅ 40% improvement in system performance
-✅ 40% reduction in booking errors
-✅ 60%+ improvement in code maintainability
-✅ 100% protection against SQL injection
-✅ Real-time data synchronization
+- ✅ 40% improvement in system performance
+- ✅ 40% reduction in booking errors
+- ✅ 60%+ improvement in code maintainability
+- ✅ 100% protection against SQL injection
+- ✅ Real-time data synchronization
 
 ---
 
